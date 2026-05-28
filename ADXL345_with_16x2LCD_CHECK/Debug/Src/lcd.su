@@ -1,0 +1,5 @@
+../Inc/system_stm32f4xx.h:128:20:DelayMs	24	static
+../Src/lcd.c:12:6:LcdInit	8	static
+../Src/lcd.c:33:6:LcdWriteNibble	24	static
+../Src/lcd.c:42:6:LcdWriteByte	24	static
+../Src/lcd.c:51:6:LcdPuts	24	static

@@ -1,0 +1,5 @@
+../Src/adxl.c:7:6:ADXL_Write	1
+../Src/adxl.c:15:9:ADXL_Read	1
+../Src/adxl.c:29:6:ADXL_ReadXYZ	1
+../Src/adxl.c:43:6:ADXL_Init	1
+../Src/adxl.c:49:7:ADXL_Angle	1
